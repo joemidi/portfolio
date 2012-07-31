@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <item>
+      <title>Bugatti Veyron Super Sport WRE</title>
+      <description>The climax of the veyon series</description>
+      <image>images/salonPrive/thumb-01.jpg</image>
+      <link>images/salonPrive/image-01.jpg</link>
+    </item>
+    <item>
+      <title>G-Wham</title>
+      <description>2001 Eurocopter AS-350B Ecureuil</description>
+      <image>images/salonPrive/thumb-02.jpg</image>
+      <link>images/salonPrive/image-02.jpg</link>
+    </item>
+    <item>
+      <title>Bugatti Veyron 16.4</title>
+      <description>Boasting a maximum speed of over 400kph</description>
+      <image>images/salonPrive/thumb-03.jpg</image>
+      <link>images/salonPrive/image-03.jpg</link>
+    </item>
+    <item>
+      <title>Lamborghini Aventador LP700-4 [01]</title>
+      <description>Under the hood (boot)</description>
+      <image>images/salonPrive/thumb-04.jpg</image>
+      <link>images/salonPrive/image-04.jpg</link>
+    </item>
+    <item>
+      <title>Lamborghini Aventador LP700-4 [02]</title>
+      <description>Admiring the angular design</description>
+      <image>images/salonPrive/thumb-05.jpg</image>
+      <link>images/salonPrive/image-05.jpg</link>
+    </item>
+    <item>
+      <title>Lamborghini Aventador LP700-4 [03]</title>
+      <description>A bull taming 700 horses</description>
+      <image>images/salonPrive/thumb-06.jpg</image>
+      <link>images/salonPrive/image-06.jpg</link>
+    </item>
+    <item>
+      <title>Jaguar XKRS [01]</title>
+      <description>Not merely the quickest Jaguar ever...</description>
+      <image>images/salonPrive/thumb-07.jpg</image>
+      <link>images/salonPrive/image-07.jpg</link>
+    </item>
+    <item>
+      <title>Jaguar XKRS [02]</title>
+      <description>... but also the most responsive and agile</description>
+      <image>images/salonPrive/thumb-08.jpg</image>
+      <link>images/salonPrive/image-08.jpg</link>
+    </item>
+    <item>
+      <title>Lexsus LFA</title>
+      <description>The result of a project to develop a supreme supercar unlike any other</description>
+      <image>images/salonPrive/thumb-09.jpg</image>
+      <link>images/salonPrive/image-09.jpg</link>
+    </item>
+    <item>
+      <title>Maybach 57</title>
+      <description>A luxury living room on the road</description>
+      <image>images/salonPrive/thumb-10.jpg</image>
+      <link>images/salonPrive/image-10.jpg</link>
+    </item>
+    <item>
+      <title>Ferrari 458-Italia</title>
+      <description>An uncompromising design approach that integrates style and aerodynamics</description>
+      <image>images/salonPrive/thumb-11.jpg</image>
+      <link>images/salonPrive/image-11.jpg</link>
+    </item>
+    <item>
+      <title>Lamborghini Gallardo Superleggera</title>
+      <description>A particularly purist and extreme Lamborghini</description>
+      <image>images/salonPrive/thumb-12.jpg</image>
+      <link>images/salonPrive/image-12.jpg</link>
+    </item>
+    <item>
+      <title>Bugatti Veyron Super Sport</title>
+      <description>The Super Sport offers perfect handling and even more powerful acceleration</description>
+      <image>images/salonPrive/thumb-13.jpg</image>
+      <link>images/salonPrive/image-13.jpg</link>
+    </item>
+  </channel>
+</rss>
